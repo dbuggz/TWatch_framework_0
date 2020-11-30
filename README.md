@@ -9,7 +9,7 @@ Has example apps and simple text menu rather than 'swipe' interface.
 - 	touch middle item to select it
 - 	touch lower item to scroll it up to centre position
 
-- Menu:
+**Menu:**
 - 	Clock:  the clockface
 - 	Jupiter:  view of jupiter's moons
 - 	Accel:  display a dot to show Acceleration sensor operation
@@ -17,7 +17,7 @@ Has example apps and simple text menu rather than 'swipe' interface.
 - 	Touch:  Display x and y values
 - 	Time: basic time setting (NB I found my watch lost 15 minutes overnight)
 
-- Other functions not fully implemented:
+**Other functions not fully implemented:**
 - 	Motor:
 - 	Temp;
 - 	Bitcoin:
