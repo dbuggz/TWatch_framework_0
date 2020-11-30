@@ -4,7 +4,7 @@ Code from https://www.instructables.com/Lilygo-T-Watch-2020-Arduino-Framework/, 
 
 Has example apps and simple text menu rather than 'swipe' interface.
 
-- **Usage:**
+**Usage:**
 - 	touch top item to scroll it down to centre position. 
 - 	touch middle item to select it
 - 	touch lower item to scroll it up to centre position
