@@ -1,6 +1,6 @@
 # TWatch_framework_0
 
-Code from https://www.instructables.com/Lilygo-T-Watch-2020-Arduino-Framework/. Dan uses Lewis Hee's 'Framework' to create a watch with a plain digital face on not reliant on RTOS and heavy C++ coding.
+Code from https://www.instructables.com/Lilygo-T-Watch-2020-Arduino-Framework/, by Dan Geiger. Dan uses Lewis Hee's https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library to create a watch with a plain digital face not reliant on RTOS and heavy C++ coding.
 
 Has example apps and simple text menu rather than 'swipe' interface.
 
